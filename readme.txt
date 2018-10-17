@@ -1,3 +1,5 @@
 # readme.txt
 junk: experimental repository.
-Before first commit. 
+Before first commit.
+
+Added for diff.
